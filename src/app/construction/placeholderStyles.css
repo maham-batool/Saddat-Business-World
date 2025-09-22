@@ -1,0 +1,3 @@
+.placeholder-uppercase::placeholder {
+  text-transform: uppercase;
+}
